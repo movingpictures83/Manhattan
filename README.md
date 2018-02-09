@@ -2,6 +2,7 @@
 # Language: R
 # Input: CSV (abundances)
 # Output: CSV (dissimilarities)
+# Tested with: PluMA 1.0, R 3.2.5
 
 PluMA plugin to compute dissimilarity between data samples, using Manhattan distance as a metric.
 The plugin accepts an input CSV file with rows representing samples and columns community members,
