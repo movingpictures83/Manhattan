@@ -1,0 +1,2 @@
+Prefix plugins/Manhattan/example/
+Plugin Manhattan inputfile abundN.csv outputfile abundN.manhattan.csv
